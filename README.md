@@ -1,6 +1,6 @@
 <h2> Hi, I'm Luyao! <img src="https://media.giphy.com/media/nF9UcT4zlN9kTFT9EN/giphy.gif" width="30"></h2>
 <img align='right' src="https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif" width="160">
-<p><em>PhD student at <a href="http://english.ib.cas.cn/">the Institute of Botany, Chinese Academy of Science</a> Microbiome researcher
+<p><em>PhD student at <a href="http://english.ib.cas.cn/">the Institute of Botany, Chinese Academy of Science</a>. Microbiome researcher
 </em></p>
 
 -  **Major :**  Microbial Ecology<img src="https://cdn-icons-png.flaticon.com/128/2286/2286262.png" width="20" height="20" /> | Sequencing :dna: 

@@ -1,5 +1,5 @@
 <h2> Hi, I'm Luyao! <img src="https://media.giphy.com/media/nF9UcT4zlN9kTFT9EN/giphy.gif" width="30"></h2>
-# <img align='right' src="https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif" width="150">
+<img align='right' src="https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif" width="150">
 <p><em>PhD student at the Institute of Botany, Chinese Academy of Science</a>. Microbiome researcher
 </em></p>
 

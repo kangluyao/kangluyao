@@ -4,5 +4,5 @@
 
 -  **Major :**  Microbial Ecology<img src="https://cdn-icons-png.flaticon.com/128/2286/2286262.png" width="20" height="20" /> | Sequencing :dna: 
 -  **Hobbies :** Hiking<img src="https://cdn-icons-png.flaticon.com/128/776/776537.png" width="20" height="20" /> | Musics :headphones: | Movies :movie_camera: | Reading :books:
--  **Interests :** useR :computer: | Ecological models :1234: 
+-  **Interests :** use R :computer: | Ecological models :1234: 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

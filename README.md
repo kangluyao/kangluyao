@@ -1,4 +1,4 @@
-<h2> Hi, I'm Luyao! # <img src="https://media.giphy.com/media/nF9UcT4zlN9kTFT9EN/giphy.gif" width="30"></h2>
+<h2> Hi, I'm Luyao! <img注释掉 src="https://media.giphy.com/media/nF9UcT4zlN9kTFT9EN/giphy.gif" width="30"></h2>
 <p><em>PhD student at the Institute of Botany, Chinese Academy of Science</a>. Microbiome researcher
 </em></p>
 

@@ -2,10 +2,6 @@
 <p><em>PhD candidate at the Institute of Botany, Chinese Academy of Science</a>.
 
 -  **Major :**  Microbial Ecology<img src="https://cdn-icons-png.flaticon.com/128/2286/2286262.png" width="20" height="20" /> | Sequencing :dna:
-
-<div style="display:none">
-  -  **Hobbies :** Hiking<img src="https://cdn-icons-png.flaticon.com/128/776/776537.png" width="20" height="20" /> | Musics :headphones: | Movies :movie_camera: | Reading :books:
-</div>
-
+<!-- -  **Hobbies :** Hiking<img src="https://cdn-icons-png.flaticon.com/128/776/776537.png" width="20" height="20" /> | Musics :headphones: | Movies :movie_camera: | Reading :books: -->
 -  **Interests :** use R :computer: | Ecological models :1234: 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

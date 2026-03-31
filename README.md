@@ -34,11 +34,3 @@ My research focuses on understanding how microbial communities regulate ecosyste
 <img src="https://skillicons.dev/icons?i=r,py,linux,vscode,github" />
 
 ---
-
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kangluyao_USERNAME&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangluyao&layout=compact&hide_border=true)
-
----

@@ -31,4 +31,4 @@ My research focuses on understanding how microbial communities regulate ecosyste
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=flat)
 
 #### 🛠️ Workflow
-<img src="https://skillicons.dev/icons?i=r,py,linux,vscode,github" />
+<img src="https://skillicons.dev/icons?i=r,py,linux,vscode,git,github,obsidian,ai" />

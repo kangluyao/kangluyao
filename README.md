@@ -32,5 +32,3 @@ My research focuses on understanding how microbial communities regulate ecosyste
 
 #### 🛠️ Workflow
 <img src="https://skillicons.dev/icons?i=r,py,linux,vscode,github" />
-
----

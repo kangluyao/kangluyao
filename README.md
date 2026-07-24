@@ -6,7 +6,7 @@
 
 ### 👩‍🔬 About Me
 
-I am currently a **Postdoctoral Researcher** at the *Institute of Botany, Chinese Academy of Sciences*.  
+I am currently a **Postdoctoral Researcher** at Division of Terrestrial Ecosystem Research Center of Microbiology and Environmental Systems Science, University of Vienna.  
 My research focuses on understanding how microbial communities regulate ecosystem processes under global change.
 
 ---
